@@ -1,7 +1,7 @@
 //Null VS Undefined
 
 var abc
-console.log(xyz)
+console.log(abc)
 
 var xyz = null
 console.log(xyz)
