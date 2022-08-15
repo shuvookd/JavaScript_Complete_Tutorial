@@ -10,3 +10,4 @@ console.log(45.45)
 console.log("Shuvo"+24)
 
 console.log(24+24)
+console.log("Shuvo");

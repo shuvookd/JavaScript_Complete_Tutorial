@@ -7,7 +7,7 @@ Arithmetic Operator(+,-,*,/, %, ++, --)
 var a = 11
 var b = 3
 
-console.log(a%b) //Modulas
+console.log(a%b) //Modulus
 
 
  //Incremental
@@ -49,6 +49,8 @@ console.log(a>b)
 console.log(a<=b)  
 console.log(a>=b)
 
+
+
 var a = '10'
 var b = 10
 
@@ -67,11 +69,14 @@ Bitwise Operator(&, |, ~, ^, <<, >>)
 
 
 /*
-Type Of Operator(&, |, ~, ^, <<, >>)
+Type Of Operator(typeof)  
+To know type use this "typeof" operator.
 */
 console.log(typeof a)
 
 console.log(typeof b)
+
+
 
 
 

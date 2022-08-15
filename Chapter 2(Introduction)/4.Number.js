@@ -1,4 +1,4 @@
-//Variable declear
+//Variable declare
 var n = 123
 var f = 3.1416
 
@@ -40,4 +40,3 @@ console.log('abc' * 123)
 console.log(Number.MAX_VALUE)
 console.log(Number.MIN_VALUE)
 
-//

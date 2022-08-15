@@ -1,4 +1,4 @@
-//Declering variable
+//Declaring variable
 
 //Variable cannot start with capital letter.
 // name is a reserved word
